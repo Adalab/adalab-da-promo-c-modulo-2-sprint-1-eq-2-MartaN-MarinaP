@@ -1,0 +1,2 @@
+,df_clipboard = pd.read_clipboard(sep='\t')
+0,df_clipboard.head(2)
